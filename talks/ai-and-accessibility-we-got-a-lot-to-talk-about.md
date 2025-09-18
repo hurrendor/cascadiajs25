@@ -10,7 +10,7 @@
 
 - [Github](https://github.com/catandthemachines) 
 
-- [Speaker's Notes (Placeholder)]()
+- [Speaker's Notes](https://speakerdeck.com/catandthemachines/ai-and-accessibility)
 - [Post-conference YouTube Recording (Placeholder)]()
 ## Abstract: 
 
