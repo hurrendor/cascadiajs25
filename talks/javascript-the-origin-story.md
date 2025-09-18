@@ -44,3 +44,7 @@ Combining task runners, ES modules, tree shaking, hot module reloading, etc, etc
 
 ### 2015 - Modernization
 ES6, TypeScript and a big change in how architecture was approached by developers with serverless functions.
+
+### In comes.. AI
+
+Understanding the history provides insights for the future.
