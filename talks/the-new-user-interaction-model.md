@@ -40,5 +40,14 @@ Wrapping an LLM in a host application. Can do stuff.. wrongly.
 Same LLM wrapped that integrates with individual tools, but CAN do stuff, right! Can't do enough though due to integration problems.
 ### Phase 3
 Same LLM wrapped that integrates with an MCP as a proxy for handling indvidual tools. The problem is that clients aren't all ready for this, yet!
+Each of the individual services are 'glued' together by the LLM.
+
+### Next phase?
+A handful of LLM clients with trillions of server MCPs.
+[MCP-UI](mcpui.dev)
+Interactive UI components for MCP -- build user interfaces for your MCP applications with SDKs that bring UI to AI interactions.
 
 ## Other speaker mentioned links:
+- [Goose MCP (repo)](https://github.com/block/goose)
+- [MCP Specs](modelcontextprotocol.io/specification)
+- [AI and MCP posts from KentCDodds](https://EpicAI.pro/posts)
