@@ -29,7 +29,7 @@ Usage is not blocked by company policies
 - Physical therapy for clinician review
 
 
-[Extract useful video frames in real-time](https://goo.gle/DoesVideoContain)
+[Extract useful video frames in real-time (repo)](https://goo.gle/DoesVideoContain)
 
 ## What's an Agent?
 A system that performs tasks autonomously for a user.
@@ -45,6 +45,13 @@ Steps used in agentic :
 
 ### [WebAI Summit Talk (video)](https://goo.gle/WebAIPrediction)
 
-https://goo.gle/ai-model-proxy-cache
-
 ## Takeaway: Use your existing website functions as tools to create more natural user interfaces
+Hybrid Web AI is a great starting point today
+## Other speaker mentioned links:
+- [Large Web AI Model File Proxy Cacher (repo)](https://goo.gle/ai-model-proxy-cache)
+
+- [Web AI Spotify DJ (repo)](https://goo.gle/web-ai-dj)
+
+- [Chrome built-in AI (article)](https://web.dev/explore/ai)
+- [WebMCP (repo)](https://goo.gle/WebMCP)
+- [WebAI Summit](goo.gle/WebAI2025): Use code CASCADIA for a free ticket
