@@ -6,8 +6,8 @@
 
 - [X / Twitter](https://x.com/shrutikapoor08) 
 
-- [Speaker's Notes]()
-- [Post-conference Youtube Recording]()
+- [Speaker's Notes (Placeholder)]()
+- [Post-conference YouTube Recording (Placeholder)]()
 ## Abstract: 
 
 Explore practical best practices for building fast, maintainable, accessible web apps in 2025. From state management myths to hybrid rendering, code splitting, caching, server actions, and accessibility.

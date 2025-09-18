@@ -6,8 +6,8 @@
 
 - [X / Twitter](https://x.com/rachelnabors) 
 
-- [Speaker's Notes]()
-- [Post-conference Youtube Recording]()
+- [Speaker's Notes (Placeholder)]()
+- [Post-conference YouTube Recording (Placeholder)]()
 ## Abstract: 
 
 What is the Web without a browser? Through Chrome, Google has been supporting and stewarding the growth of the web as an ads-supported economy. Now, AI Agents and MCP threaten to change everything. Some might say the Web is about to die, but maybe it is about to be reborn like a phoenix. 
