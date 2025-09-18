@@ -9,4 +9,42 @@
 ## Abstract: 
 
 Learn how to create and run client side AI agents in JS, powered by smaller LLMs, to perform useful work faster on existing websites using Web AI. Get a glimpse of the future - an agentic internet.
-## Community talk notes: 
+# Community talk notes: 
+
+## Why Client Side AI?
+- Privacy
+Keeping personal data off the cloud. IE, video check-ins for physical therapy.
+- Work Offline
+xample: Retail analytics through [Consumer Goods Detection](https://goo.gle/WebAI-Goods)
+- Latency
+- Cost
+- Zero install
+Usage is not blocked by company policies
+- Reach & Scale of the Web
+
+### [WebML highlights (video)](https://goo.gle/made-with-tfjs)
+- Animatronics
+- Roboflow pill count detection
+- Hand detection in video feed to allow whiteboard sketches
+- Physical therapy for clinician review
+
+
+[Extract useful video frames in real-time](https://goo.gle/DoesVideoContain)
+
+## What's an Agent?
+A system that performs tasks autonomously for a user.
+Dynamically select and use tools in a loop to go beyond the constrains of the core language.
+Ex: Asking about the weather with an LLM calling the Weather API to verify the weather status.
+
+## Language Models
+One or more LLMs (potentialy multimodal) capabale of following instruction based reasoning
+Steps used in agentic :
+- planning
+- tool usage
+- memory
+
+### [WebAI Summit Talk (video)](https://goo.gle/WebAIPrediction)
+
+https://goo.gle/ai-model-proxy-cache
+
+## Takeaway: Use your existing website functions as tools to create more natural user interfaces
