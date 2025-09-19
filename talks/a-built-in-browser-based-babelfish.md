@@ -53,6 +53,6 @@ Announced at Google I/O, works behind a flag in Chrome Canary
 - Privacy
 
 ### Speaker Recommended Links
-[Built in AI](https://developer.chrome.com/docs/ai/built-in-apis)
-[Web AI demos](https://github.com/GoogleChromeLabs/web-ai-demos)
-[Langflow](https://langflow.org)
+- [Built in AI](https://developer.chrome.com/docs/ai/built-in-apis)
+- [Web AI demos](https://github.com/GoogleChromeLabs/web-ai-demos)
+- [Langflow](https://langflow.org)
