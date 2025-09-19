@@ -14,3 +14,9 @@ The real hurdles are deeply technical, shaped by wildly diverse hardware and unp
 
 In this talk, Andy Luly, VP of Engineering at Onebrief, pulls back the curtain on what it's like to bring startup velocity and next-gen engineering into defense. You'll hear how the team scaled by more than 60x in record time, enabled real-time collaboration across secure and fragmented networks, and solved problems faster than legacy systems ever could — all while keeping users in the loop when it counts.
 ## Community talk notes: 
+Client Side Performance
+Typical users have 5-15 tabs open, each with ~120mb of data and its own websocket.
+
+Utilized shared websockets through Dark Fiber to reduce memory usage
+### DDIL (Disconnected, Degraded, Intermittent and Limited/Low bandwidth) environments
+DDIL creates a lot of conflicts in keeping consistant data between sources.
