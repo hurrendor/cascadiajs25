@@ -4,7 +4,7 @@
 ### Slalom, Seattle, WA, USA 
 - [Bluesky](https://bsky.app/profile/gregle.dev) 
 
-- [Speaker's Notes (Placeholder)]()
+- [Speaker's Notes](https://cascadia-2025.gregle.dev/)
 - [Post-conference YouTube Recording (Placeholder)]()
 ## Abstract: 
 
