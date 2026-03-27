@@ -1,4 +1,4 @@
-# The Death of the Browser 
+a# The Death of the Browser 
 
 ## Rachel Lee Nabors
 ### Dressed for Space, London, United Kingdom 
@@ -7,7 +7,7 @@
 - [X / Twitter](https://x.com/rachelnabors) 
 
 - [Speaker's Notes (Placeholder)]()
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://www.youtube.com/watch?v=1bLX1INicBM&list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8&index=8)
 ## Abstract: 
 
 What is the Web without a browser? Through Chrome, Google has been supporting and stewarding the growth of the web as an ads-supported economy. Now, AI Agents and MCP threaten to change everything. Some might say the Web is about to die, but maybe it is about to be reborn like a phoenix. 
