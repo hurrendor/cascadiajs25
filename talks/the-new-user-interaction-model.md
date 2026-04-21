@@ -2,12 +2,10 @@
 
 ## Kent C. Dodds
 ### EpicAI.pro, Salt Lake City, UT, USA 
-- [Linkedin](https://www.linkedin.com/in/kentcdodds) 
-
-- [X / Twitter](https://x.com/kentcdodds) 
-
+- [Linkedin](https://www.linkedin.com/in/kentcdodds)
+- [X / Twitter](https://x.com/kentcdodds)
 - [Speaker's Notes](https://slides.com/kentcdodds/user-interaction-future)
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/bcaurwoNHis?si=uRcpjndisssrffG1)
 ## Abstract: 
 
 For decades, users have interacted with our applications using links and forms, but that's not enough for users anymore. They want to use natural language. Let's talk about how that changes what we build.

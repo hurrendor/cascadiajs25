@@ -2,11 +2,8 @@
 
 ## Shruti Kapoor
 ### Content Creator, Seattle, WA, USA 
-- [Linkedin](https://www.linkedin.com/in/shrutikapoor08/) 
-
-- [X / Twitter](https://x.com/shrutikapoor08) 
-
-- [Speaker's Notes (Placeholder)]()
+- [Linkedin](https://www.linkedin.com/in/shrutikapoor08/)
+- [X / Twitter](https://x.com/shrutikapoor08)
 - [Post-conference YouTube Recording](https://www.youtube.com/watch?v=ZDZPxmFZ6yk&list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8&index=17)
 ## Abstract: 
 

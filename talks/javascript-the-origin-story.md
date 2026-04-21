@@ -4,9 +4,7 @@
 ### Fly.io, Portland, OR, USA 
 - [Bluesky](https://bsky.app/profile/anniesexton.com) 
 - [YouTube](@AnnieSexton1)
-
-- [Speaker's Notes (Placeholder)]()
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/Sl3XUmg4LBk?si=qlfvBxEN8-62CyI_)
 ## Abstract: 
 
 JavaScript wasn't always the cool kid on the block. In this talk, we'll follow how a lil 10-day hackathon became the cornerstone of modern web dev.

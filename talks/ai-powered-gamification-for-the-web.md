@@ -7,7 +7,7 @@
 - [Github](https://github.com/cyatteau)
 
 - [Speaker's Notes (PDF)](https://github.com/cyatteau/CascadiaJS-AI-Gamification-2025/blob/main/AI-Powered-Gamification_CascadiaJS.pdf)
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/pTkk8LgffcE?si=G1lReh9ZClZTe-Xh)
 ## Abstract: 
 
 Discover how to bring AI-powered gamification to your projects with adaptive difficulty, live sentiment feedback, and dynamic content that learns from user actions.

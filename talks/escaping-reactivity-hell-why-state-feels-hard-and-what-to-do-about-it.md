@@ -4,8 +4,7 @@
 ### Phantom, Arlington, VA, USA 
 - [Bluesky](https://bsky.app/profile/pzuraq.bsky.social) 
 - [Personal Site](https://pzuraq.com)
-- [Speaker's Notes (Placeholder)]()
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/wW1AX9yW0hk?si=DG5nVjzaul3AmaAp)
 ## Abstract: 
 
 Promises freed us from callback hell. But reactivity hell—debug loops, messy effects, brittle state—still haunts us. Signalium is a library inspired by Hooks, powered by Signals, that reimagines state to break the cycle.

@@ -5,9 +5,7 @@
 - [Bluesky](https://bsky.app/profile/philna.sh) 
 - [LinkedIn](https://linkedin.com/in/philnash)
 - [Links](https://philna.sh/links)
-
-- [Speaker's Notes (Placeholder)]()
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/bZGoFTzPiKw?si=TxNfW0N5vtROGvju)
 ## Abstract: 
 
 AI is thriving on the server side, but the web is catching up! Let's explore how to build browser AI apps, like an offline speech-to-speech translator, leveraging current and future Web APIs.

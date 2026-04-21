@@ -4,9 +4,7 @@
 ### Freelance, Seattle, WA, USA 
 - [Linkedin](https://www.linkedin.com/in/ishananand/) 
 - [Spreadsheets-are-all-you-need](https://spreadsheets-are-all-you-need.ai)
-
-- [Speaker's Notes (Placeholder)]()
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/clqB9mpdwok?si=aiAaMWFpYuyAOy2x)
 ## Abstract: 
 
 We'll demystify LLM internals for web developers using a real LLM implemented entirely in vanilla JavaScript that runs in the browser. No Ph.D. needed!

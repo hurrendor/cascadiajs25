@@ -3,9 +3,7 @@
 ## Bree Hall
 ### HubSpot, Atlanta, GA, USA 
 - [Linkedin](https://www.linkedin.com/in/briannahall0) 
-
-- [Speaker's Notes (Placeholder)]()
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/oWNHk2dqTZM?si=SW-_BM_TnpFod5Mu)
 ## Abstract: 
 
 Explore how to code for sight, sound, touch, and more! Learn how creative frontend tools can turn websites into full-sensory experiences that feel as good as they function.

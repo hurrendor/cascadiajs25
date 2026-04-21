@@ -2,15 +2,13 @@
 
 ## Adam Argyle
 ### Indie, Seattle, WA, USA 
-- [Linkedin](https://www.linkedin.com/in/adamargyle/) 
-
-- [X / Twitter](https://x.com/argyleink) 
-
+- [Linkedin](https://www.linkedin.com/in/adamargyle/)
+- [X / Twitter](https://x.com/argyleink)
 - [Speaker's Notes](https://cascadiajs-2025.netlify.app/)
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/QW6GECIzvsw?si=E-t_zweikLtVTX9L)
 ## Abstract: 
 
-A fast paced, animated, and jam packed tik-talk on CSS features from the past ~5 years. CSS has moved so fast, don't feel bad you aren't all caught up, no one is. This talk will teach you as many things as possible while providing good examples of practical use cases. Syntax, typography, color, architecture, and more.
+A fast-paced, animated, and jam packed tik-talk on CSS features from the past ~5 years. CSS has moved so fast, don't feel bad you aren't all caught up, no one is. This talk will teach you as many things as possible while providing good examples of practical use cases. Syntax, typography, color, architecture, and more.
 ## Community talk notes: 
 
 # 25 Rad features in 25 minutes

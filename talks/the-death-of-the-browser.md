@@ -4,9 +4,7 @@ a# The Death of the Browser
 ### Dressed for Space, London, United Kingdom 
 - [Linkedin](https://www.linkedin.com/in/rachelnabors/) 
 - [Personal Website](https://nearestnabors.com)
-- [X / Twitter](https://x.com/rachelnabors) 
-
-- [Speaker's Notes (Placeholder)]()
+- [X / Twitter](https://x.com/rachelnabors)
 - [Post-conference YouTube Recording](https://www.youtube.com/watch?v=1bLX1INicBM&list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8&index=8)
 ## Abstract: 
 

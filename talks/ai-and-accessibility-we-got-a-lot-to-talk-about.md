@@ -11,7 +11,7 @@
 - [Github](https://github.com/catandthemachines) 
 
 - [Speaker's Notes](https://speakerdeck.com/catandthemachines/ai-and-accessibility)
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/SKWh2QKcpGE?si=LIE4uVYAWsf10c_I)
 ## Abstract: 
 
 In the rapidly evolving landscape of technology, Artificial Intelligence (AI) stands out as a game-changer our industry. But what are the implications for accessibility and building compliant and inclusive experiences?

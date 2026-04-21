@@ -4,15 +4,14 @@
 ### OpenAI, Minneapolis, MN, USA 
 - [X / Twitter](https://x.com/kevinwhinnery) 
 - [Personal site](https://kevin.mn)
-- [Speaker's Notes (Placeholder)]()
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/kImnnMUcMfM?si=sD37IzFHRSC4zk0Y)
 ## Abstract: 
 
 In this talk, we'll explore the capabilities of the recently released GPT-5 model family from OpenAI. Learn about new function calling techniques, prompting best practices, and more to get the most out of this model.
 ## Community talk notes: 
 
 Context: Using the OpenAI library in JavaScript
-## Making the most out of ChatGPT5
+## Making the most out of ChatGPT-5
 ### Effort and verbosity
 >Song pair: 'Next Level' - aespa
 

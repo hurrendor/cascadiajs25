@@ -4,8 +4,7 @@
 ### Cloudflare, Portland, OR, USA 
 - [X / Twitter](https://x.com/craigsdennis) 
 - [AI Avenue](https://aiavenue.show/)
-- [Speaker's Notes (Placeholder)]()
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/nKgCVE-1tPg?si=jQRz522t0iIH0ztm)
 ## Abstract: 
 
 I'm proud of my kids. I didn't do the work—they did. I just prompted them. Same with AI. When it makes something bonkers, I still feel proud. Should I? I do. It's weird. Let’s get used to it. Let’s chat.

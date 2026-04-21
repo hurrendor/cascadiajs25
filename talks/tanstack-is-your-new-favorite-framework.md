@@ -5,8 +5,7 @@
 - [Linkedin](https://www.linkedin.com/in/jherr/)
 - [X / Twitter](https://x.com/jherr) 
 - [YouTube](https://www.youtube.com/@jherr)
-- [Speaker's Notes (Placeholder)]()
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/uy2WSS1MjGM?si=VoTA-rEcZjWUGusA)
 ## Abstract: 
 
 You might know TanStack from the awesome React-Query framework that is used in 25% of all React apps. Well TanStack is a lot more than that. TanStack Start is a cutting edge React framework that competes with NextJS and might end up being your new favorite framework. Let's have a look and get you Started today.

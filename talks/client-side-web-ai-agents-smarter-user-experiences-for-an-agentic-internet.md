@@ -3,9 +3,7 @@
 ## Jason Mayes
 ### Google, San Francisco, CA, USA 
 - [Linked](https://www.linkedin.com/in/webai) 
-
-- [Speaker's Notes (Placeholder)]()
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/4J9RaiomJFo?si=jeWDBrGsMPAJd6HH)
 ## Abstract: 
 
 Learn how to create and run client side AI agents in JS, powered by smaller LLMs, to perform useful work faster on existing websites using Web AI. Get a glimpse of the future - an agentic internet.

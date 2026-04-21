@@ -4,9 +4,7 @@
 ### Freelance, Seattle, WA, USA 
 - [X / Twitter](https://x.com/MelkeyDev) 
 - [YouTube](https://youtube.com/@melkey)
-
-- [Speaker's Notes (Placeholder)]()
-- [Post-conference YouTube Recording (Placeholder)]()
+- [Post-conference YouTube Recording](https://youtu.be/WzSMt3YkkTc?si=d0xy3QF53wjajvLk)
 ## Abstract: 
 
 Go-blueprint is a powerful CLI tool that helps users spin up Go backend projects. Recently we added frontend support with popular libraries. The CLI tool now has 8k stars and growing!
